@@ -1,0 +1,24 @@
+{
+  "name": "notes_api",
+  "version": "1.0.0",
+  "description": "simple backend for a note-taking application using TypeScript, Node.js, and Express",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CeazarMasula/notes_api.git"
+  },
+  "keywords": [
+    "typescript",
+    "nodejs",
+    "express"
+  ],
+  "author": "Ceazar Masula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CeazarMasula/notes_api/issues"
+  },
+  "homepage": "https://github.com/CeazarMasula/notes_api#readme"
+}
