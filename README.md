@@ -2,11 +2,11 @@
 
 ## Getting Started
 
-### Prerequisites
+#### Prerequisites
 
 - Node.js and npm should be installed on your machine. You can download them [here](https://nodejs.org/).
 
-#### How to run notes API
+### How to run notes API
 
 1. Clone repository
 
@@ -28,10 +28,11 @@
    ```
 
 4. Once the server is started succesfully, you will see this notification on the terminal
-   ```bash
+   ```arduino
    Server running: http://localhost:3000
    ```
-5. Now the API is running, you can use the routes for performing operations in notes
+
+- Now the API is running, you can use the routes for performing operations in notes
 
 ### Routes
 
@@ -145,7 +146,7 @@
   {
     "message": "Note has been updated.",
     "note": {
-      "id": "69e58258-a27d-4701-8bf0-7502a25b4e87",
+      "id": "796e338e-ddf6-4544-98eb-f8f16da6dc1a",
       "title": "Updated Note title",
       "body": "the body of the updated note"
     }
