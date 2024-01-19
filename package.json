@@ -4,7 +4,7 @@
   "description": "simple backend for a note-taking application using TypeScript, Node.js, and Express",
   "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,21 @@
   "bugs": {
     "url": "https://github.com/CeazarMasula/notes_api/issues"
   },
-  "homepage": "https://github.com/CeazarMasula/notes_api#readme"
+  "homepage": "https://github.com/CeazarMasula/notes_api#readme",
+  "devDependencies": {
+    "@types/body-parser": "^1.19.5",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.11.5",
+    "nodemon": "^3.0.3",
+    "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "@types/uuid": "^9.0.7",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "typescript": "^5.3.3",
+    "uuid": "^9.0.1"
+  }
 }
