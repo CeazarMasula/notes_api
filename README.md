@@ -11,7 +11,7 @@
 1. Clone repository
 
    ```bash
-   git clone git@github.com:CeazarMasula/notes_api.git
+   git clone https://github.com/CeazarMasula/notes_api.git
    ```
 
 2. Install Dependencies
