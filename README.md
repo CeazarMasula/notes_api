@@ -17,7 +17,7 @@
 2. Install Dependencies
 
    ```bash
-    cd notes-api
+    cd notes_api
     npm install
    ```
 
